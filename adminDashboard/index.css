@@ -1,4 +1,16 @@
 
-.dropdown{
+.dropdown , .dropdown-toggle{
     background-color: #a91d54;
+
+}
+/* .main_div{
+    height:;
+} */
+
+.sub_div1{
+    width: 20%;
+}
+.list-items a{
+    color: #fff;
+    text-decoration: none !important;
 }
